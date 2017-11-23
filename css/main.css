@@ -7,4 +7,33 @@ html {
 }
 html {
   font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  color: white;
+  background-color: #d05c2e;
+}
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin: 0;
+  padding: .5em 0 0;
+}
+li {
+  font-size: 1.125rem;
+  display: inline-block;
+  text-align: center;
+  color: white
+}
+ul {
+  margin: 0;
+  border: solid #a63f38;
+}
+img {
+  width: 40px;
+  margin: 0;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
 }
